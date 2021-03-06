@@ -6,7 +6,7 @@
 
 I'm Busari Ridwan Oluwatimilehin
 
-I'm a Web developer skilled at problem-solving, presentations and collaborating with creative & development teams to build all aspects of the user experience and user interface for client-facing landing pages
+I'm a Fullstack developer skilled at problem-solving, presentations and collaborating with creative & development teams to build all aspects of the user experience and user interface for client-facing landing pages
 
 Some of the cool websites I've worked on are:
 
