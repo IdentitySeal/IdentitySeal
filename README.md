@@ -6,7 +6,7 @@
 
 I'm Timi
 
-I'm a Fullstack developer skilled at problem-solving, presentations and collaborating with creative & development teams to build all aspects of the user experience and user interface for client-facing landing pages
+A Fullstack developer skilled at problem-solving, presentations and collaborating with creative & development teams to build all aspects of the user experience and user interface for client-facing landing pages
 
 <h1 align="center">Github Stats ✨</h1>
 
